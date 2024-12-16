@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgadestinsrch.ccbp.tech/](https://durgadestinsrch.ccbp.tech/)🔗
+## **_Website_**:[https://destination-search-pi.vercel.app/](https://destination-search-pi.vercel.app/)🔗
 
 In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
 
